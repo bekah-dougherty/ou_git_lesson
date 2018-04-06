@@ -1,0 +1,10 @@
+data/
+
+*.data
+*.dat
+
+*.o
+
+*.class
+
+//can comment this out as well
